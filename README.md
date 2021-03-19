@@ -14,6 +14,7 @@ I'm a indie dev
 ## Socials
 
  - Twitter: @domify
+ - Insta: @domifyapp
 
 
 <!--
