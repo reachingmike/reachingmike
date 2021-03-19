@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+## I'm Mike Dennis aka reachingmike
+
+I'm a indie dev
+
+## Tech I'm into:
+
+ - Javascript
+ - Vue
+ - PHP
+ - Lua
+
+## Socials
+
+ - Twitter: @domify
+
+
 <!--
 **reachingmike/reachingmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
